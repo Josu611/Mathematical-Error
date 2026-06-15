@@ -1,2 +1,2 @@
 # Mathematical-Error
-//Proyecto hecho por Josué y Kaell para Pensamiento Computacional I
+Proyecto hecho por Josué y Kaell para Pensamiento Computacional I
